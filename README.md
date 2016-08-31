@@ -9,12 +9,13 @@ I. Analysis
 
 a. Scope
 
-A lot of people tend to do things that upset others without realizing the consequences of pushing one's limit of patience or go over the line. As a result, unhappy events that destroy both parties' relationship may happen.
+A lot of young adults nowadays tend to do things that upset others without realizing the consequences of pushing one's limit of patience or go over the line. As a result, unhappy events that destroy both parties' relationship may happen.
 
 Objectives:
 1. To let users understand the consequences of crossing over someone's limit of patience.
-2. To remind users to always treat everyone with respect as everyone has their own dignity and when the limit is exceeded there is no turning back. 
+2. To remind young adults to always treat everyone with respect as everyone has their own dignity and when the limit is exceeded there is no turning back. 
 3. To let users acknowledge human's secondary emotion, which is dignity.
+4. To educate young adults about the importance of manners and respect.
 
 Schedule:
 
@@ -51,23 +52,22 @@ relevant technologies
 
 c. Stakeholder Interviews (internal / external)
 
-Understand product vision and constraints 1. product{project} vision
+Product Vision
+To create a better social environment with lesser unnecessary problems with the understanding of respect and dignity in young adults.
 
-risk
+Risk
+- Users might not understand the intended meaning of project
 
-What is the worst result?
 Obstacles
+- Campaign or educational instituition do not accept this new form of creating awareness
 
-external threats
-constraints
-Internal limitations
-viable technologies
-cost
-opportunities
+Constraints
+- Lack of technical and digital skills
+- Renting cost of kinect and projector
 
-In spite of the obstacles we have this project has strength from a), b), c), ….
-Persisting problem
-users
+Opportunities
+- Can exhibit artwork at events and locations that allow 
+- Experienced people in this field that we can consult 
 
 d. User observations
 
