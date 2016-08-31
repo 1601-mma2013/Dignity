@@ -46,9 +46,14 @@ b. Audit
 
 Review existing work and product 1. Field (market) research
 
-competitors / alternatives / replacement
+Competitors
+- artists in field with the same concept and are more skilled
 
-relevant technologies
+Alternatives
+- 
+
+Relevant technologies
+- Kinect 1 motion sensor 
 
 c. Stakeholder Interviews (internal / external)
 
