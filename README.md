@@ -14,7 +14,32 @@ A lot of people tend to do things that upset others without realizing the conseq
 Objectives:
 1. To let users understand the consequences of crossing over someone's limit of patience.
 2. To remind users to always treat everyone with respect as everyone has their own dignity and when the limit is exceeded there is no turning back. 
+3. To let users acknowledge human's secondary emotion, which is dignity.
 
+Schedule:
+
+Week10
+- Project idea proposal
+- Planning of workload and schedule
+- Responsibility division between teammates
+
+Week11
+- Project building Phase 1
+  * Interactive content shooting 
+- Consultation on designed floor plan, materials 
+
+Week12
+- Project building Phase 1 done
+- Proceed to Phase 2
+  * Combine content with coding and sensors
+- Consultation/Problem solving
+
+Week13
+- Project test run
+- Project debugging 
+
+Week14
+- Final bugless project ready for Presentation
 
 b. Audit
 
