@@ -10,13 +10,16 @@
 A lot of young adults nowadays tend to do things that upset others without realizing the consequences of pushing one's limit of patience or go over the line. As a result, unhappy events that destroy both parties' relationship may happen. "Don't" is a project 
 
 : To let users understand the consequences of crossing over someone's limit of patience.
+
 : To let users acknowledge human's secondary emotion, which is dignity.
+
 : To educate and remind young adults to always treat everyone with respect as everyone has their own dignity and when the limit is   exceeded there is no turning back. 
 
 Don't: 
+
 An interactive installation which engages users in a human computer interaction to create awareness to be mindful of their behaviour towards others and be respectful. This installation allows users to explore this process through touch sensing technology. *Don't* relies on the user’s interaction with the projected visuals that is projected on a piece of cloth. When the user presses onto the cloth, this action is detected, which in turn changes the reaction of the projected visuals on the cloth.
 
-
+------
 
 Schedule:
 
@@ -115,10 +118,9 @@ users’s ability to learn something quickly and do it well
 2. Behavior: Michee doesnt voice out when she gets offended with the jokes made by her friends
 3. Attitudes: She wish that the society not to be selfish and think of others feeling
 4. Aptitudes: She keeps her temper when someone doing things that pushes over her patience limit
-5. 4. Environments: public space/campaign/event
-6. 5. Tools: Hand
+5. Environments: public space/campaign/event
+6. Tools: Hand
  
-
 
 
 b. Other Models
