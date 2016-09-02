@@ -13,8 +13,9 @@ A lot of young adults nowadays tend to do things that upset others without reali
 : To let users acknowledge human's secondary emotion, which is dignity.
 : To educate and remind young adults to always treat everyone with respect as everyone has their own dignity and when the limit is   exceeded there is no turning back. 
 
-Don't
+Don't: 
 An interactive installation which engages users in a human computer interaction to create awareness to be mindful of their behaviour towards others and be respectful. This installation allows users to explore this process through touch sensing technology. *Don't* relies on the user’s interaction with the projected visuals that is projected on a piece of cloth. When the user presses onto the cloth, this action is detected, which in turn changes the reaction of the projected visuals on the cloth.
+
 
 
 Schedule:
@@ -94,25 +95,23 @@ users’s ability to learn something quickly and do it well
 
 (user’s) challenges - doesn't understand or didn't care other people feeling
 
-2. Modeling
 
-a. Personas
 
-user and customer archetypes
+##2. Modeling
 
-goals
+### a. Personas
 
-Patterns in user and customer behaviors
+**Name**: Michee Lin
 
-attitudes
+**Gender**: Female
 
-aptitudes
+**Occupation**: Student
 
-environments
+**Age**: 24
 
-tools
+------
 
-challenges
+
 
 b. Other Models
 
@@ -122,48 +121,46 @@ environments
 
 artifacts
 
-II. Synthesis
-
-3. Requirements Definition
-
-a. Context Scenarios
-
+# II. Synthesis
+## 3. Requirements Definition
+### a. Context Scenarios
 A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals by telling the narrative about ideal user experiences
-
-b. Requirements
-
+### b. Requirements
 Describe necessary capabilities of the product
+1. Functional and data needs
 
-Functional and data needs
+2. user mental models
 
-user mental models
+3. design imperatives
 
-design imperatives
+4. product vision
 
-product vision
+5. business requirements
 
-business requirements
+6. technology
 
-technology
+## 4. Design Framework
+### a. Elements
+Deﬁne manifestations of information and functionality
+1. Information
 
-4. Design Framework
+2. functions
 
-a. Elements
+3. mechanisms
 
-Deﬁne manifestations of information and functionality 1. Information
+4. actions
 
-functions
+5. domain object models
 
-mechanisms
-
-actions
-
-domain object models
-
-b. Framework
-
-Design overall structure of user experience 1. Object relationships 2. Conceptual groupings 3. Navigation sequencing 4. Principles and patterns 5. Floor Plan 6. flow 7. sketches 8. storyboards
-
-c. Key Path and Validation Scenarios
-
+### b. Framework
+Design overall structure of user experience
+1. Object relationships
+2. Conceptual groupings
+3. Navigation sequencing
+4. Principles and patterns
+5. Floor Plan
+	6. flow
+	7. sketches
+	8. storyboards
+### c. Key Path and Validation Scenarios
 Describe how the persona interacts with the product
