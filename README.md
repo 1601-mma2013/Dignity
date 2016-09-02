@@ -1,61 +1,58 @@
-# Dignity
-Limit of Patience
+# Don't
+"Dignity"-Limit of Patience
 
-Project Name
+## I. Analysis
 
-I. Analysis
+### 1. Research
 
-1. Research
+### a. Scope
 
-a. Scope
+A lot of young adults nowadays tend to do things that upset others without realizing the consequences of pushing one's limit of patience or go over the line. As a result, unhappy events that destroy both parties' relationship may happen. "Don't" is a project 
 
-A lot of young adults nowadays tend to do things that upset others without realizing the consequences of pushing one's limit of patience or go over the line. As a result, unhappy events that destroy both parties' relationship may happen.
+: To let users understand the consequences of crossing over someone's limit of patience.
+: To let users acknowledge human's secondary emotion, which is dignity.
+: To educate and remind young adults to always treat everyone with respect as everyone has their own dignity and when the limit is   exceeded there is no turning back. 
 
-Objectives:
-1. To let users understand the consequences of crossing over someone's limit of patience.
-2. To remind young adults to always treat everyone with respect as everyone has their own dignity and when the limit is exceeded there is no turning back. 
-3. To let users acknowledge human's secondary emotion, which is dignity.
-4. To educate young adults about the importance of manners and respect.
+Don't
+An interactive installation which engages users in a human computer interaction to create awareness to be mindful of their behaviour towards others and be respectful. This installation allows users to explore this process through touch sensing technology. *Don't* relies on the user’s interaction with the projected visuals that is projected on a piece of cloth. When the user presses onto the cloth, this action is detected, which in turn changes the reaction of the projected visuals on the cloth.
+
 
 Schedule:
 
-Week10
-- Project idea proposal
-- Planning of workload and schedule
-- Responsibility division between teammates
+>*Week10*
+>- Project idea proposal
+>- Planning of workload and schedule
+>- Responsibility division between teammates
 
-Week11
-- Project building Phase 1
-  * Interactive content shooting 
-- Consultation on designed floor plan, materials 
+>*Week11*
+>- Project building Phase 1
+>  * Interactive content shooting 
+>- Consultation on designed floor plan, materials 
 
-Week12
-- Project building Phase 1 done
-- Proceed to Phase 2
-  * Combine content with coding and sensors
-- Consultation/Problem solving
+>*Week12*
+>- Project building Phase 1 done
+>- Proceed to Phase 2
+>  * Combine content with coding and sensors
+>- Consultation/Problem solving
 
-Week13
-- Project test run
-- Project debugging 
+>*Week13*
+>- Project test run
+>- Project debugging 
 
-Week14
-- Final bugless project ready for Presentation
+>*Week14*
+>- Final bugless project ready for Presentation
 
-b. Audit
 
-Review existing work and product 1. Field (market) research
+### b. Audit
+1. competitors / alternatives / replacement
+- artists in field with the same concept
 
-Competitors
-- artists in field with the same concept and are more skilled
+2.Relevant technologies
+- *Kinect 1 motion sensor*
+- *Digital Light Processign Projector*
 
-Alternatives
-- 
 
-Relevant technologies
-- Kinect 1 motion sensor 
-
-c. Stakeholder Interviews (internal / external)
+### c. Stakeholder Interviews (internal / external)
 
 Product Vision
 To create a better social environment with lesser unnecessary problems with the understanding of respect and dignity in young adults.
@@ -74,7 +71,7 @@ Opportunities
 - Can exhibit artwork at events and locations that allow 
 - Experienced people in this field that we can consult 
 
-d. User observations
+### d. User observations
 
 Understand user needs and behavior and describe it. Find various aspect of audience/customer
 
