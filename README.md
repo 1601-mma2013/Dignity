@@ -111,6 +111,14 @@ users’s ability to learn something quickly and do it well
 
 ------
 
+1. Goals: through physical interaction, soial awareness ads will leave a strong and lasting impression in society 
+2. Behavior: Michee doesnt voice out when she gets offended with the jokes made by her friends
+3. Attitudes: She wish that the society not to be selfish and think of others feeling
+4. Aptitudes: She keeps her temper when someone doing things that pushes over her patience limit
+5. 4. Environments: public space/campaign/event
+6. 5. Tools: Hand
+ 
+
 
 
 b. Other Models
