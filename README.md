@@ -80,22 +80,22 @@ Understand user needs and behavior and describe it. Find various aspect of audie
 
 Users
 
-potential users
+potential users - someone who experience same situation/someone who make people experience this kind of situation.
 
-(user’s) behaviors
+(user’s) behaviors - user who doesn't know or care human limit/human feelings
 
-(user’s) attitudes
+(user’s) attitudes - did something without knowing that's over someone limit.
 
-(user’s) aptitudes
+(user’s) aptitudes - an interactive artwork that show human reaction and feeling.
 
 users’s ability to learn something quickly and do it well
-(user’s) motivations
+(user’s) motivations - think on people point of view before you start your action.
 
-(user’s) environments
+(user’s) environments - place at public or any exhibition/campaign  
 
-(user’s) tools
+(user’s) tools - hand 
 
-(user’s) challenges
+(user’s) challenges - doesn't understand or didn't care other people feeling
 
 2. Modeling
 
