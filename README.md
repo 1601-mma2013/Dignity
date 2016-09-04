@@ -17,7 +17,7 @@ A lot of young adults nowadays tend to do things that upset others without reali
 
 Don't: 
 
-An interactive installation which engages users in a human computer interaction to create awareness to be mindful of their behaviour towards others and be respectful. This installation allows users to explore this process through touch sensing technology. *Don't* relies on the user’s interaction with the projected visuals that is projected on a piece of cloth. When the user presses onto the cloth, this action is detected, which in turn changes the reaction of the projected visuals on the cloth.
+An interactive installation which engages users in a human computer interaction to create awareness among users to be mindful of their behaviour towards others and to never be respectful. This installation allows users to experience the process of pushing one's limit of patience through touch sensing technology. *Don't* relies on the user’s interactions with the projected visuals on a piece of cloth. When the user presses onto the cloth, the action is detected which in turn changes the reaction of the projected visuals on the cloth.
 
 ------
 
@@ -49,7 +49,7 @@ Schedule:
 
 ### b. Audit
 1. competitors / alternatives / replacement
-- artists in field with the same concept
+- Artists in field with the same concept
 
 2.Relevant technologies
 - *Kinect 1 motion sensor*
@@ -69,7 +69,7 @@ Obstacles
 
 Constraints
 - Lack of technical and digital skills
-- Renting cost of kinect and projector
+- Renting cost of Kinect and projector
 
 Opportunities
 - Can exhibit artwork at events and locations that allow 
@@ -83,20 +83,20 @@ Users
 
 potential users - someone who experience same situation/someone who make people experience this kind of situation.
 
-(user’s) behaviors - user who doesn't know or care human limit/human feelings
+(user’s) behaviors - user who doesn't know or care about human's patience limit/human feelings
 
-(user’s) attitudes - did something without knowing that's over someone limit.
+(user’s) attitudes - did something without knowing that it is over someone limit.
 
-(user’s) aptitudes - an interactive artwork that show human reaction and feeling.
+(user’s) aptitudes - an interactive artwork that shows human feelings and reactions.
 
-users’s ability to learn something quickly and do it well
+
 (user’s) motivations - think on people point of view before you start your action.
 
 (user’s) environments - place at public or any exhibition/campaign  
 
 (user’s) tools - hand 
 
-(user’s) challenges - doesn't understand or didn't care other people feeling
+(user’s) challenges - doesn't understand or doesn't care other's feelings
 
 
 
@@ -114,11 +114,11 @@ users’s ability to learn something quickly and do it well
 
 ------
 
-1. Goals: through physical interaction, soial awareness ads will leave a strong and lasting impression in society 
+1. Goals: through physical interaction, this awareness spreading artwork will leave a strong and lasting impression in society 
 2. Behavior: Michee doesnt voice out when she gets offended with the jokes made by her friends
 3. Attitudes: She wish that the society not to be selfish and think of others feeling
-4. Aptitudes: She keeps her temper when someone doing things that pushes over her patience limit
-5. Environments: public space/campaign/event
+4. Aptitudes: She keeps her temper when someone does things that exceeds her patience limit
+5. Environments: public space/campaign/events
 6. Tools: Hand
  
 
