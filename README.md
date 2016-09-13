@@ -85,11 +85,11 @@ Understand user needs and behavior and describe it. Find various aspect of audie
 
 Users
 
-potential users - someone who experience same situation/someone who make people experience this kind of situation.
+potential users - The human resource department of an established company that wants to encourage a harmonious working environment
 
-(user’s) behaviors - user who doesn't know or care about human's patience limit/human feelings
+(user’s) behaviors - HR has to constantly find new workers to replace those who left due to unwanted/unhappy relationships between staffs in the office
 
-(user’s) attitudes - did something without knowing that it is over someone limit.
+(user’s) attitudes - 
 
 (user’s) aptitudes - an interactive artwork that shows human feelings and reactions.
 
