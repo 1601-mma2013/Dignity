@@ -19,6 +19,10 @@ Don't:
 
 An interactive installation which engages users in a human computer interaction to create awareness among users to be mindful of their behaviour towards others and to never be respectful. This installation allows users to experience the process of pushing one's limit of patience through touch sensing technology. *Don't* relies on the user’s interactions with the projected visuals on a piece of cloth. When the user presses onto the cloth, the action is detected which in turn changes the reaction of the projected visuals on the cloth.
 
+Product vision:
+To remind staffs in a company that everyone should be treated with respect, especially the relationship between superiors and subordinates. 
+
+
 ------
 
 Schedule:
@@ -89,10 +93,9 @@ potential users - someone who experience same situation/someone who make people 
 
 (user’s) aptitudes - an interactive artwork that shows human feelings and reactions.
 
-
 (user’s) motivations - think on people point of view before you start your action.
 
-(user’s) environments - place at public or any exhibition/campaign  
+(user’s) environments - in a company, during annual or teambuilding events where staffs in a company bond together
 
 (user’s) tools - hand 
 
