@@ -89,17 +89,17 @@ potential users - The human resource department of an established company that w
 
 (user’s) behaviors - HR has to constantly find new workers to replace those who left due to unwanted/unhappy relationships between staffs in the office
 
-(user’s) attitudes - 
+(user’s) attitudes - To reach out to staffs(both superior and subordinates) and let them understand the importance of treating co-workers with respect.
 
-(user’s) aptitudes - an interactive artwork that shows human feelings and reactions.
+(user’s) aptitudes - Touch interaction artwork that allows users(staffs) to immerse themselves and have a better understanding that leaves a stronger impression in them.
 
-(user’s) motivations - think on people point of view before you start your action.
+(user’s) motivations - To let staffs in the company treat each other with respect in order to have a harmonious working environment.
 
-(user’s) environments - in a company, during annual or teambuilding events where staffs in a company bond together
+(user’s) environments - During annual or teambuilding events of the company where all the staffs have a bonding time with each other.
 
-(user’s) tools - hand 
+(user’s) tools - Allows a few staffs to interact with the artwork at once.
 
-(user’s) challenges - doesn't understand or doesn't care other's feelings
+(user’s) challenges - Artwork might not reach all the staffs, some might not be able to undertand the intended message and some might not even be interestd to try.
 
 
 
