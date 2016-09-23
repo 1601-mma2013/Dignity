@@ -11,16 +11,17 @@ A lot of young adults nowadays tend to do things that upset others without reali
 
 : To let users understand the consequences of crossing over someone's limit of patience.
 
-: To let users acknowledge human's secondary emotion, which is dignity.
-
-: To educate and remind young adults to always treat everyone with respect as everyone has their own dignity and when the limit is   exceeded there is no turning back. 
+: To educate and remind people in this society to always treat everyone with respect as everyone has their own dignity and when the limit is exceeded there is no turning back. 
 
 Don't: 
 
-An interactive installation which engages users in a human computer interaction to create awareness among users to be mindful of their behaviour towards others and to never be respectful. This installation allows users to experience the process of pushing one's limit of patience through touch sensing technology. *Don't* relies on the user’s interactions with the projected visuals on a piece of cloth. When the user presses onto the cloth, the action is detected which in turn changes the reaction of the projected visuals on the cloth.
+An interactive installation which engages users in a human computer interaction to create awareness among users to be mindful of their behaviour towards others and to never be disrespectful. This installation allows users to experience the process of pushing one's limit of patience through touch sensing technology. *Don't* relies on the user’s interactions with the projected visuals on a piece of cloth. When the user presses onto the cloth, the action is detected which in turn changes the reaction of the projected visuals on the cloth.
 
 Product vision:
 To remind staffs in a company that everyone should be treated with respect, especially the relationship between superiors and subordinates. 
+
+Prevent and resolve workplace conflict.  
+
 
 
 ------
@@ -52,12 +53,30 @@ Schedule:
 
 
 ### b. Audit
-1. competitors / alternatives / replacement
-- Artists in field with the same concept
+1. competitors 
+- Artists in field with the same concept 
+- Other forms of products with lower costs (some companies choose not to spend too much) 
 
-2.Relevant technologies
-- *Kinect 1 motion sensor*
+3.Relevant technologies
+- *Kinect 2 motion sensor*
 - *Digital Light Processign Projector*
+
+2. Alternatives/ replacement 
+
+Other technologies options:
+
+Leap Motion:
+Advantages: It is more accurate sensor compare with kinect.[200 times more sensitive than existing touch-free technologies.]
+		
+	    It's size is very small[Ipod Size]. 
+	    
+	    Lower cost USD $79.99. [Kinect $200] 
+
+Disvantages: It works for a very small range.The effective range of the Leap Motion Controller extends from approximately 1 inch to 2              
+             feet above the device. 
+ 
+             It does only hands and finger tracking. 
+
 
 
 ### c. Stakeholder Interviews (internal / external)
