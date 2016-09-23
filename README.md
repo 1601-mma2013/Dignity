@@ -59,41 +59,23 @@ Schedule:
 
 3.Relevant technologies
 - *Kinect 2 motion sensor*
-- 
-- 
 - *Digital Light Processign Projector*
 
 2. Alternatives/ replacement 
 
 Other technologies options:
 
-*Leap Motion*
-###Advantages:
--It is more accurate sensor compare with kinect.[200 times more sensitive than existing touch-free technologies.]
--It's size is very small[Ipod Size]. 
--Lower cost USD $79.99.[Kinect $200] 
+Leap Motion:
+Advantages: It is more accurate sensor compare with kinect.[200 times more sensitive than existing touch-free technologies.]
+		
+	    It's size is very small[Ipod Size]. 
+	    
+	    Lower cost USD $79.99. [Kinect $200] 
 
-###Disvantages: 
--It works for a very small range.The effective range of the Leap Motion Controller extends from approximately 1 inch to 2          feet above the device. 
--It does only hands and finger tracking. 
-
-*Clarity Matrix MultiTouch*
-The Clarity Matrix MultiTouch LCD Video Wall is an interactive LCD video wall system. It is an ultra-slim profile touch screen video wall ideal for public spaces or collaboration environments. Clarity Matrix MultiTouch incorporates the latest touch technology to enable up to 32 touch points simultaneously across the video wall. This allows multiple touches and user to simultaneously interact witch the video wall without affecting other users, making it the premier solution for customers looking to expand
-their collaboration capabilities in visualization or conference room applications.
-
-###Advantages:
--Clarity Matrix with ERO features a glass front to provide increased ruggedness and optical performance for applications in public spaces
--Easy to install and fully configurable
-
-###Disadvantages:
--Not easy to self-construct.It reqquires expert knowledge of electronics, circuit design, and  digital-signal processing (DSP). Also,
-in order to achieve a high-resolution, the sensor boards should be surface-mounted which gives another barrier to construction since it cannot be handmade.
-
--Not scalable: Larger surfaces require more sensors, which increases cost and latency. Covering a 32” screen for example, may require thousands of sensors and a fast-processor to read through all the sensors.
-
-
-https://www.youtube.com/watch?v=A7kNJhPd-yM
-https://www.youtube.com/watch?v=3qPjZDByHBg
+Disvantages: It works for a very small range.The effective range of the Leap Motion Controller extends from approximately 1 inch to 2              
+             feet above the device. 
+ 
+             It does only hands and finger tracking. 
 
 
 
@@ -139,7 +121,7 @@ potential users - The human resource department of an established company that w
 
 (user’s) tools - Allows a few staffs to interact with the artwork at once.
 
-(user’s) challenges - Artwork might not reach all the staffs, some might not be able to undertand the intended message and some might not even be interestd to try.
+(user’s) challenges - Artwork might not reach all the staffs, some might not be able to undertand the intended message and some might not even be interested to try.
 
 
 
@@ -147,20 +129,26 @@ potential users - The human resource department of an established company that w
 
 ### a. Personas
 
-**Name**: Michee Lin
+**Name**: Michelle Lin
 
 **Gender**: Female
 
-**Occupation**: Student
+**Occupation**: Human Resource Manager 
 
 **Age**: 24
 
 ------
 
-1. Goals: through physical interaction, this awareness spreading artwork will leave a strong and lasting impression in society 
-2. Behavior: Michee doesnt voice out when she gets offended with the jokes made by her friends
-3. Attitudes: She wish that the society not to be selfish and think of others feeling
-4. Aptitudes: She keeps her temper when someone does things that exceeds her patience limit
+Bio
+Michelle Lin is the Human Resource(HR) Manager of a insurance company. Michelle's job is to maintain and enhance the company's human resources by planning, implementing, and evaluating employee relations and human resources policies, programs, and practices. However, Michelle noticed that there has been quite a number of staffs from the Sales Department and IT Department resigning and leaving the company throughout the month. As a HR Manager, Michelle carries the responsibility of maintaining the staff organization of the company. Thus, Michelle carried out an investigation and found out that the managers and subordinates of these two divisions have had a huge conflict due to some personal matters. Michelle feels that action should be taken to resolve this matter. AFter reporting this problem to the company's board of directors, Michelle had a conversation and necessary admendments with the two departments' manager and hopes that the problem will be solved.
+
+Besides that, Michelle wants to grab the opportunity of the upcoming teambuilding event in the company and use it as a stepping stone to reunite and reorganize the staffs in the company. Hence, Michelle wants to have a product that allows the staffs to realize and understand the importance of a harmornious and supporting staff team in the company. 
+
+
+1. Goals: To reunite staffs in the company and let them understand the importance of treating each other with respect. 
+2. Behavior: Michelle prefers to resolve conflicts with a gentle approach by reminding the staffs
+3. Attitudes: Michelle does not want to fire the staffs straight away
+4. Aptitudes: 
 5. Environments: public space/campaign/events
 6. Tools: Hand
  
