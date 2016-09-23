@@ -86,17 +86,20 @@ To create a better social environment with lesser unnecessary problems with the 
 
 Risk
 - Users might not understand the intended meaning of project
+- Technical error (Fluctuation of the accuracy of touch sensor data/unstable sensitivity of sensor)
+- Users prefer traditional/analog form of spreading awareness(e.g. advertising videos on tv, billboards)
 
 Obstacles
-- Campaign or educational instituition do not accept this new form of creating awareness
+- High cost
+- Requires a dark space/area in order to see projected visuals clearly (might not suit every event/occasion)
 
 Constraints
 - Lack of technical and digital skills
 - Renting cost of Kinect and projector
 
 Opportunities
-- Can exhibit artwork at events and locations that allow 
-- Experienced people in this field that we can consult 
+- Lessen the problems and conflict between staffs in the company 
+- Leaves an impression in staff's minds and remind them about respecting one another
 
 ### d. User observations
 
@@ -106,9 +109,9 @@ Users
 
 potential users - The human resource department of an established company that wants to encourage a harmonious working environment
 
-(user’s) behaviors - HR has to constantly find new workers to replace those who left due to unwanted/unhappy relationships between staffs in the office
+(user’s) behaviors - HR has to constantly find new workers to replace those who left due to unwanted/unhappy relationships between staffs in the office. 
 
-(user’s) attitudes - To reach out to staffs(both superior and subordinates) and let them understand the importance of treating co-workers with respect.
+(user’s) attitudes - To reach out to staffs(both superior and subordinates) and let them understand the importance of treating co-workers with respect.  
 
 (user’s) aptitudes - Touch interaction artwork that allows users(staffs) to immerse themselves and have a better understanding that leaves a stronger impression in them.
 
