@@ -59,23 +59,41 @@ Schedule:
 
 3.Relevant technologies
 - *Kinect 2 motion sensor*
+- 
+- 
 - *Digital Light Processign Projector*
 
 2. Alternatives/ replacement 
 
 Other technologies options:
 
-Leap Motion:
-Advantages: It is more accurate sensor compare with kinect.[200 times more sensitive than existing touch-free technologies.]
-		
-	    It's size is very small[Ipod Size]. 
-	    
-	    Lower cost USD $79.99. [Kinect $200] 
+*Leap Motion*
+###Advantages:
+-It is more accurate sensor compare with kinect.[200 times more sensitive than existing touch-free technologies.]
+-It's size is very small[Ipod Size]. 
+-Lower cost USD $79.99.[Kinect $200] 
 
-Disvantages: It works for a very small range.The effective range of the Leap Motion Controller extends from approximately 1 inch to 2              
-             feet above the device. 
- 
-             It does only hands and finger tracking. 
+###Disvantages: 
+-It works for a very small range.The effective range of the Leap Motion Controller extends from approximately 1 inch to 2          feet above the device. 
+-It does only hands and finger tracking. 
+
+*Clarity Matrix MultiTouch*
+The Clarity Matrix MultiTouch LCD Video Wall is an interactive LCD video wall system. It is an ultra-slim profile touch screen video wall ideal for public spaces or collaboration environments. Clarity Matrix MultiTouch incorporates the latest touch technology to enable up to 32 touch points simultaneously across the video wall. This allows multiple touches and user to simultaneously interact witch the video wall without affecting other users, making it the premier solution for customers looking to expand
+their collaboration capabilities in visualization or conference room applications.
+
+###Advantages:
+-Clarity Matrix with ERO features a glass front to provide increased ruggedness and optical performance for applications in public spaces
+-Easy to install and fully configurable
+
+###Disadvantages:
+-Not easy to self-construct.It reqquires expert knowledge of electronics, circuit design, and  digital-signal processing (DSP). Also,
+in order to achieve a high-resolution, the sensor boards should be surface-mounted which gives another barrier to construction since it cannot be handmade.
+
+-Not scalable: Larger surfaces require more sensors, which increases cost and latency. Covering a 32” screen for example, may require thousands of sensors and a fast-processor to read through all the sensors.
+
+
+https://www.youtube.com/watch?v=A7kNJhPd-yM
+https://www.youtube.com/watch?v=3qPjZDByHBg
 
 
 
