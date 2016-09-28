@@ -1,6 +1,8 @@
 # Don't
 "Dignity"-Limit of Patience
 
+Add the names of your team members
+
 ## I. Analysis
 
 ### 1. Research
